@@ -10,7 +10,7 @@ body {
   font-family: JoseonGulim;
   margin: 0;
   color: #333;
-  background-image: url(/images/canyon-9765223.jpg);
+  background-image: url(../images/canyon-9765223.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -65,7 +65,7 @@ body {
   margin: 0 auto 20px;
   object-fit: cover;
   background-color: #e0e0e0;
-  background-image: url(/images/cat-9813484.jpg);
+  background-image: url(../images/cat-9813484.jpg);
 }
 
 .right-column {

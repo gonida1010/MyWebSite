@@ -15,7 +15,7 @@
 body {
   margin: 0;
   font-family: sans-serif;
-  background-image: url("/images/canyon-9765223.jpg");
+  background-image: url("../images/canyon-9765223.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
